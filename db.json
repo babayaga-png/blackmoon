@@ -1,0 +1,137 @@
+{
+    "constelaciones" : [
+        {
+            "Avatar" : "https://www.costarastrology.com/98a054b0814e7a9772cf9825e2e59b5c.png" , 
+            "Signo": "Aries",
+            "fecha" : "20 marzo - 19 abril",
+            "Elemento" : "Fuego",
+            "Planeta" : "Marte",
+            "Anatomía" : "Cabeza y Rostro",
+            "Propósito" : "Soy el primero del zodiaco, mi propósito es comenzar. Plantar la semilla y dejar que el resto de ustedes la haga crecer. Se me ha dado el don de la acción, que me permite actuar desde mis instintos, sin pensar en el precedente. Estoy aquí para comenzar, una y otra vez, con fe de que hacer algo es mejor que hacer nada.",
+            "buenDía" : "Aries es apasionado, sin temor, entusiasta, juguetón, e independiente.",
+            "maldía" : "Aries es mandón, impulsivo, de mal carácter, competitivo, y con poca visión"
+
+        }, {
+            "Avatar" : "https://www.costarastrology.com/acf74f17096105d5e531b97668dcd588.png" ,
+            "Signo": "Tauro",
+            "fecha" : "20 abril - 19 mayo",
+            "Elemento" : "Tierra",
+            "Planeta" : "Venus",
+            "Anatomía" : "Cuello y garganta",
+            "Propósito" : "Se me ha dado el don de la fuerza, es mi propóstio construir aquello que está hecho para durar. No desfalleceré ni huiré cuando el presente sea difícil, ni cuando aquellos a mi alrededor ya no estén. No me apoyo en la inspiración, y tu influencia no me mueve. Estoy enraizado en la integridad. Acompáñame a tranformar esta semilla en sustancia.",
+            "buenDía" : "Tauro es leal, digno de confianza, apoyador, lujoso y romántico.",
+            "malDía" : "Tauro es materialista, flojo, arrogante, testarudo y con tendencias de gula."
+
+        }, {
+            "Avatar" : "https://www.costarastrology.com/3801512cefd505e24b6a872166a63eda.png" ,
+            "Signo": "Géminis" ,
+            "fecha" : "20 mayo -20 junio",
+            "Elemento" : "Aire",
+            "Planeta" : "Mercurio",
+            "Anatomía" : "Brazos y manos",
+            "Propósito" : "Se me ha dado el don del conocimiento, es mi propósito compartir las respuestas de nuestras preguntas más grandes. Darle palabras a la confusión, la desilusión y la alegría de la condición humana. Cuando no encontremos las palabras, yo hablaré por nosotros. Cuando perdamos el hilo del pensamiento, yo nos guiaré de vuelta a casa.",
+            "buenDía" : "Géminis es atento, paciente, compasivo y leal.",
+            "malDía": "Géminis es inseguro, sospechoso, pesimista y sensible."
+        }, {
+            "Avatar" : "https://www.costarastrology.com/9317eb622f633eccf9f205217350f55a.png",
+            "Signo" : "Cáncer",
+            "Fecha" : "21 junio -22 julio",
+            "Elemento" : "Agua",
+            "Planeta" : "Luna",
+            "Anatomía" : "Pecho y pulmones",
+            "Propósito" : "Se me ha dado el don de la protección emocional, es mi propósito hacer sentir seguros a otros. Sé lo doloroso que es sentir todo tan profundamente, en un mundo tan duro. Pero estoy aquí para ayudarte a construir un hogar dentro de ti. Un hogar que lleva tu verdad, la alimenta y le da espacio para descansar.",
+            "buenDía" : "Cáncer  es juguetón, valiente, alentador, apasionado y espontáneo.",
+            "malDía": "Cáncer es testarudo, egoísta, aislado y pasivo-agresivo."
+
+        }, {
+            "Avatar" : "https://www.costarastrology.com/aefaa790d3fab638049c1c71628566f8.png",
+            "Signo" : "Leo",
+            "Fecha" : "23 Julio - 22 Agosto",
+            "Elemento" : "Fuego",
+            "Planeta" : "Sol",
+            "Anatomía" : "Plexo solar",
+            "Propósito" : "Se me ha dado el don del coraje, es mi propósito crear. Estoy aquí para mostrar el resplandor y la belleza de la vida misma. Hacer brillar la luz en la gracia de todas las cosas. Y al hacerlo, darle respeto y honor a nuestra humanidad colectiva. Lo que yo creo es la manifestación del niño que llevamos dentro. ",
+            "buenDía" : "Leo es generoso, elegante, ambiscioso, protector y leal.",
+            "malDía": "Leo es narcisista, arrogante y dominante."
+
+        }, {
+            "Avatar" : "https://www.costarastrology.com/febc51b0b73a0d3800635227c971ebac.png",
+            "Signo" : "Virgo",
+            "Fecha" : "23 agosto - 22 sept.",
+            "Elemento" : "Tierra",
+            "Planeta" : "Mercurio",
+            "Anatomía" : "Estómago e intestinos",
+            "Propósito" : "Se me ha dado el don  de la auto-examinación, es mi propósito empujarnos a ser mejores. A intentar con más fuerza. A no dar excusas por nuestros errores. Somos imperfectos, pero para lograr la grandeza debemos apuntar alto. Siempre he esperado y esperaré mucho de nosotros. Porque sé que lo podemos hacer mejor.",
+            "buenDía" : "Virgo es organizado, racional, servicial,  esforzado e ingenioso.",
+            "malDía": "Virgo es dependiente, ansioso, perfeccionista y neurótico."
+
+        }, {
+            "Avatar" : "https://www.costarastrology.com/2fd27bdab0dc5d196270ead04c7cc5a6.png",
+            "Signo" : "Libra",
+            "Fecha" : "23 Sept. - 22 Oct.",
+            "Elemento" : "Aire",
+            "Planeta" : "Venus",
+            "Anatomía" : "Riñones y caderas",
+            "Propósito" : "Se me ha dado el don de la armonía interna, es mi propósito darle al mundo un poco de balance. Dar dulzura a aquello que es amargo. Dar perspectiva a aquello que está demasiado cerca para ver. Luchar por la justicia cuando todo parece injusto. El balance del poder está en la paz.",
+            "buenDía" : "Libra es diplomático, pacífico, artístico y carismático.",
+            "malDía": "Libra es indeciso, pasivo-agresivo y narcisista."
+
+        }, {
+            "Avatar" : "https://www.costarastrology.com/c4a44723cbabfe48672e06ab82366135.png",
+            "Signo" : "Escorpión",
+            "fecha" : "23 Oct. - 21 Nov.",
+            "Elemento" : "Agua",
+            "Planeta" : "Plutón",
+            "Anatomía" : "Genitales",
+            "Propósito" : "Se me ha dado el don de la profundidad emocional, es mi proósito ver aquello que está más allá. Estoy aquí para escarbar y explorar los recesos del alma, y así encontrar comprensión y aceptación. Voy a ver aquello que estamos condicionados a ignorar, y traer vida a lo que alguna vez estuvo muerto.",
+            "buenDía" : "Escorpio es imaginativo, seductor, magnético y ambicioso.",
+            "malDía": "Escorpio es manipulador, obsesivo y posesivo. "
+
+        }, {
+            "Avatar" : "https://www.costarastrology.com/17d3848f4127d5016523094b65e1bd1b.png",
+            "Signo" : "Sagitario",
+            "Fecha" : "22 Nov - Dic. 21",
+            "Elemento" : "Fuego",
+            "Planeta" : "Júpiter",
+            "Anatomía" : "Muslos",
+            "Propósito" : "Se me ha dado el don del optimismo, es mi propósito esparcir la curiosidad. Estoy aquí para enseñarte a mirar hacia arriba en momentos de desesperación. Llegaré a muchas vidas, pero sólo por un momento en el tiempo. Hago esto para que te des cuenta que no soy tu gurú. Sólo estoy aquí para presentarte a nuestra gran maestra - la vida. ",
+            "buenDía" : "Sagitario es gracioso, filosófico y aventurero.",
+            "malDía": "Sagitario es impaciente, sin control, desapegado y desperdicia mucho.",
+            "transit" : "Surgen temas relacionados con pensamiento estratégico, independencia y tomar nuevas oportunidades."
+
+        }, {
+            "Avatar" : "https://www.costarastrology.com/c9cd21c50e2d5e20867d6cff27250f35.png",
+            "Signo" : "Capricornio",
+            "fecha" : "22 Dic. - 19 Enero",
+            "Elemento" : "Tierra",
+            "Planeta" : "Saturno",
+            "Anatomía" : "Rodillas",
+            "Propósito" : "Se me ha dado el don de la integridad, es mi propósito ponernos a trabajar. Con el peso de nuestra labor sobre los hombros, no me engañan los atajos ni me mueve la inspiración. Estoy aquí para mostrarte que nada real viene fácil. Y aquello que es real vale toda nuestra sangre, sudor y lágrimas.",
+            "buenDía" : "Capricornio  es emprendedor, responsable y perseverante",
+            "malDía": "Capricornio es pesimista, tacaño, oportunista y desapegado."
+
+        }, {
+            "Avatar" : "https://www.costarastrology.com/38dea5cc9d32ca1388aa015e5b17dd46.png",
+            "Signo" : "Acuario",
+            "fecha" : "20 Enero - 18 Feb.",
+            "Elemento" : "Aire",
+            "Planeta" : "Urano",
+            "Anatomía" : "Pantorrillas",
+            "Propósito" : "Se me ha dado el don de la visión, es mi propósito encontrar nuestro futuro. Por esta razón, no me preocupo del pasado. Me desapego para poder permanecer abierto a todas las posibilidades de la vida, y ver aquello que está por venir. Es un camino solitario aquel de la búsqueda de la libertad. Pero una vez que lo encuentre, lo prometo, será nuestro para compartir.",
+            "buenDía" : "Acuario es inventivo, de pensamiento libre y revolucionario. ",
+            "malDía": "Acuario es muy desapegado de sus emociones, frío, busca peleas, es poco claro y autoritario."
+
+        }, {
+            "Avatar" : "https://www.costarastrology.com/d882f1ca659080d601afa303d52bc588.png",
+            "Signo" : "Piscis",
+            "fecha" : "19 Feb. - 20 Marzo",
+            "Elemento" : "Agua",
+            "Planeta" : "Neptuno",
+            "Anatomía" : "Pies",
+            "Propósito" : "Ya que soy el último, es mi propósito entender los 11 signos restantes. Absorbo el dolor colectivo para poder entregar la compasión que se necesita para comenzar otra vez. Y por esa razón -  tus lágrimas son mis lágrimas; tu amor es mi amor. Tengo un poco de todos en mi, así que cuando digo que empatizo contigo, lo digo en serio.",
+            "buenDía" : "Piscis es creativo, intuitivo, compasivo y soñador.",
+            "malDía": "Piscis es escapista, demandante, destructivo y víctima."
+
+        }
+    ]
+}
