@@ -1,0 +1,125 @@
+{
+    "constelaciones" : [
+        {
+            "Avatar" : "https://www.costarastrology.com/98a054b0814e7a9772cf9825e2e59b5c.png" , 
+            "Signo": "Aries",
+            "fecha" : "20 marzo - 19 abril",
+            "Elemento" : "Fuego",
+            "Planeta" : "Marte",
+            "Anatomía" : "Cabeza y Rostro",
+            "buenDía" : "Aries es apasionado, sin temor, entusiasta, juguetón, e independiente.",
+            "maldía" : "Aries es mandón, impulsivo, de mal carácter, competitivo, y con poca visión"
+
+        }, {
+            "Avatar" : "https://www.costarastrology.com/acf74f17096105d5e531b97668dcd588.png" ,
+            "Signo": "Tauro",
+            "fecha" : "20 abril - 19 mayo",
+            "Elemento" : "Tierra",
+            "Planeta" : "Venus",
+            "Anatomía" : "Cuello y garganta",
+            "buenDía" : "Tauro es leal, digno de confianza, apoyador, lujoso y romántico.",
+            "malDía" : "Tauro es materialista, flojo, arrogante, testarudo y con tendencias de gula."
+
+        }, {
+            "Avatar" : "https://www.costarastrology.com/3801512cefd505e24b6a872166a63eda.png" ,
+            "Signo": "Géminis" ,
+            "fecha" : "20 mayo -20 junio",
+            "Elemento" : "Aire",
+            "Planeta" : "Mercurio",
+            "Anatomía" : "Brazos y manos",
+            "buenDía" : "Géminis es atento, paciente, compasivo y leal.",
+            "malDía": "Géminis es inseguro, sospechoso, pesimista y sensible."
+        }, {
+            "Avatar" : "https://www.costarastrology.com/9317eb622f633eccf9f205217350f55a.png",
+            "Signo" : "Cáncer",
+            "Fecha" : "21 junio -22 julio",
+            "Elemento" : "Agua",
+            "Planeta" : "Luna",
+            "Anatomía" : "Pecho y pulmones",
+            "buenDía" : "Cáncer  es juguetón, valiente, alentador, apasionado y espontáneo.",
+            "malDía": "Cáncer es testarudo, egoísta, aislado y pasivo-agresivo."
+
+        }, {
+            "Avatar" : "https://www.costarastrology.com/aefaa790d3fab638049c1c71628566f8.png",
+            "Signo" : "Leo",
+            "Fecha" : "23 Julio - 22 Agosto",
+            "Elemento" : "Fuego",
+            "Planeta" : "Sol",
+            "Anatomía" : "Plexo solar",
+            "buenDía" : "Leo es generoso, elegante, ambiscioso, protector y leal.",
+            "malDía": "Leo es narcisista, arrogante y dominante."
+
+        }, {
+            "Avatar" : "https://www.costarastrology.com/febc51b0b73a0d3800635227c971ebac.png",
+            "Signo" : "Virgo",
+            "Fecha" : "23 agosto - 22 sept.",
+            "Elemento" : "Tierra",
+            "Planeta" : "Mercurio",
+            "Anatomía" : "Estómago e intestinos",
+            "buenDía" : "Virgo es organizado, racional, servicial,  esforzado e ingenioso.",
+            "malDía": "Virgo es dependiente, ansioso, perfeccionista y neurótico."
+
+        }, {
+            "Avatar" : "https://www.costarastrology.com/2fd27bdab0dc5d196270ead04c7cc5a6.png",
+            "Signo" : "Libra",
+            "Fecha" : "23 Sept. - 22 Oct.",
+            "Elemento" : "Aire",
+            "Planeta" : "Venus",
+            "Anatomía" : "Riñones y caderas",
+            "buenDía" : "Libra es diplomático, pacífico, artístico y carismático.",
+            "malDía": "Libra es indeciso, pasivo-agresivo y narcisista."
+
+        }, {
+            "Avatar" : "https://www.costarastrology.com/c4a44723cbabfe48672e06ab82366135.png",
+            "Signo" : "Escorpión",
+            "fecha" : "23 Oct. - 21 Nov.",
+            "Elemento" : "Agua",
+            "Planeta" : "Plutón",
+            "Anatomía" : "Genitales",
+            "buenDía" : "Escorpio es imaginativo, seductor, magnético y ambicioso.",
+            "malDía": "Escorpio es manipulador, obsesivo y posesivo. "
+
+        }, {
+            "Avatar" : "https://www.costarastrology.com/17d3848f4127d5016523094b65e1bd1b.png",
+            "Signo" : "Sagitario",
+            "Fecha" : "22 Nov - Dic. 21",
+            "Elemento" : "Fuego",
+            "Planeta" : "Júpiter",
+            "Anatomía" : "Muslos",
+            "buenDía" : "Sagitario es gracioso, filosófico y aventurero.",
+            "malDía": "Sagitario es impaciente, sin control, desapegado y desperdicia mucho.",
+            "transit" : "Surgen temas relacionados con pensamiento estratégico, independencia y tomar nuevas oportunidades."
+
+        }, {
+            "Avatar" : "https://www.costarastrology.com/c9cd21c50e2d5e20867d6cff27250f35.png",
+            "Signo" : "Capricornio",
+            "fecha" : "22 Dic. - 19 Enero",
+            "Elemento" : "Tierra",
+            "Planeta" : "Saturno",
+            "Anatomía" : "Rodillas",
+            "buenDía" : "Capricornio  es emprendedor, responsable y perseverante",
+            "malDía": "Capricornio es pesimista, tacaño, oportunista y desapegado."
+
+        }, {
+            "Avatar" : "https://www.costarastrology.com/38dea5cc9d32ca1388aa015e5b17dd46.png",
+            "Signo" : "Acuario",
+            "fecha" : "20 Enero - 18 Feb.",
+            "Elemento" : "Aire",
+            "Planeta" : "Urano",
+            "Anatomía" : "Pantorrillas",
+            "buenDía" : "Acuario es inventivo, de pensamiento libre y revolucionario. ",
+            "malDía": "Acuario es muy desapegado de sus emociones, frío, busca peleas, es poco claro y autoritario."
+
+        }, {
+            "Avatar" : "https://www.costarastrology.com/d882f1ca659080d601afa303d52bc588.png",
+            "Signo" : "Piscis",
+            "fecha" : "19 Feb. - 20 Marzo",
+            "Elemento" : "Agua",
+            "Planeta" : "Neptuno",
+            "Anatomía" : "Pies",
+            "buenDía" : "Piscis es creativo, intuitivo, compasivo y soñador.",
+            "malDía": "Piscis es escapista, demandante, destructivo y víctima."
+
+        }
+    ]
+}
