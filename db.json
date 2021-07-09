@@ -32,7 +32,7 @@
         }, {
             "Avatar" : "https://www.costarastrology.com/9317eb622f633eccf9f205217350f55a.png",
             "Signo" : "Cáncer",
-            "Fecha" : "21 junio -22 julio",
+            "fecha" : "21 junio -22 julio",
             "Elemento" : "Agua",
             "Planeta" : "Luna",
             "Anatomía" : "Pecho y pulmones",
@@ -42,7 +42,7 @@
         }, {
             "Avatar" : "https://www.costarastrology.com/aefaa790d3fab638049c1c71628566f8.png",
             "Signo" : "Leo",
-            "Fecha" : "23 Julio - 22 Agosto",
+            "fecha" : "23 Julio - 22 Agosto",
             "Elemento" : "Fuego",
             "Planeta" : "Sol",
             "Anatomía" : "Plexo solar",
@@ -52,7 +52,7 @@
         }, {
             "Avatar" : "https://www.costarastrology.com/febc51b0b73a0d3800635227c971ebac.png",
             "Signo" : "Virgo",
-            "Fecha" : "23 agosto - 22 sept.",
+            "fecha" : "23 agosto - 22 sept.",
             "Elemento" : "Tierra",
             "Planeta" : "Mercurio",
             "Anatomía" : "Estómago e intestinos",
@@ -62,7 +62,7 @@
         }, {
             "Avatar" : "https://www.costarastrology.com/2fd27bdab0dc5d196270ead04c7cc5a6.png",
             "Signo" : "Libra",
-            "Fecha" : "23 Sept. - 22 Oct.",
+            "fecha" : "23 Sept. - 22 Oct.",
             "Elemento" : "Aire",
             "Planeta" : "Venus",
             "Anatomía" : "Riñones y caderas",
@@ -82,7 +82,7 @@
         }, {
             "Avatar" : "https://www.costarastrology.com/17d3848f4127d5016523094b65e1bd1b.png",
             "Signo" : "Sagitario",
-            "Fecha" : "22 Nov - Dic. 21",
+            "fecha" : "22 Nov - Dic. 21",
             "Elemento" : "Fuego",
             "Planeta" : "Júpiter",
             "Anatomía" : "Muslos",
